@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1741655979 source:c:\users\khiem\desktop\game\aaaaa\murderer 1\gameobject.cpp
+	"gameobject.h"
+	"pathfinding.h"
+	<SDL_image.h>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1741657755 c:\users\khiem\desktop\game\aaaaa\murderer 1\gameobject.h
+	<algorithm>
+	<SDL2/SDL.h>
+	<vector>
+
+1741657520 source:c:\users\khiem\desktop\game\aaaaa\murderer 1\main.cpp
+	<bits/stdc++.h>
+	"gameobject.h"
+	"pathfinding.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"animation_and_things.h"
+
+1741656809 source:c:\users\khiem\desktop\game\aaaaa\murderer 1\pathfinding.cpp
+	"pathfinding.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	"gameobject.h"
+
+1741656800 c:\users\khiem\desktop\game\aaaaa\murderer 1\pathfinding.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1741610296 source:c:\users\khiem\desktop\game\aaaaa\murderer 1\animation_and_things.cpp
+	"animation_and_things.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	<iostream>
+	"gameobject.h"
+
+1741617563 c:\users\khiem\desktop\game\aaaaa\murderer 1\animation_and_things.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1741610296 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\animation_and_things.cpp
+	"animation_and_things.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	<iostream>
+	"gameobject.h"
+
+1741617563 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\animation_and_things.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1741657755 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\gameobject.h
+	<algorithm>
+	<SDL2/SDL.h>
+	<vector>
+
+1741657756 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\gameobject.cpp
+	"gameobject.h"
+	"pathfinding.h"
+	<SDL_image.h>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1741656800 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\pathfinding.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1741657724 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\main.cpp
+	<bits/stdc++.h>
+	"gameobject.h"
+	"pathfinding.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"animation_and_things.h"
+
+1741656809 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy\pathfinding.cpp
+	"pathfinding.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	"gameobject.h"
+
+1741610296 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\animation_and_things.cpp
+	"animation_and_things.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	<iostream>
+	"gameobject.h"
+
+1741617563 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\animation_and_things.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1743233172 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\gameobject.h
+	<algorithm>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<vector>
+
+1743233186 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\main.cpp
+	<bits/stdc++.h>
+	"gameobject.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1741656800 c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\pathfinding.h
+	<SDL2/SDL.h>
+	<vector>
+	<algorithm>
+	"gameobject.h"
+
+1741656809 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\pathfinding.cpp
+	"pathfinding.h"
+	<SDL2/SDL.h>
+	<algorithm>
+	<vector>
+	"gameobject.h"
+
+1743512998 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 - copy - copy\gameobject.cpp
+	"gameobject.h"
+	<SDL_image.h>
+	<SDL2/SDL.h>
+	<bits/stdc++.h>
+
+1743233186 source:c:\users\khiem\desktop\game\aaaaa\murderer 1 ok\main.cpp
+	<bits/stdc++.h>
+	"gameobject.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1745572508 c:\users\khiem\desktop\game\aaaaa\murderer 1 ok\gameobject.h
+	<algorithm>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<vector>
+
